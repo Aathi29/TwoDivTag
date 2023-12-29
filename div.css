@@ -1,7 +1,6 @@
 .div_one{
     margin-top: 10px;
     width: 420px;  
-    display: inline-flexbox;
     flex-direction: column;
     
 }
