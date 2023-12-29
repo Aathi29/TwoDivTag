@@ -1,0 +1,17 @@
+.div_one{
+    margin-top: 10px;
+    width: 420px;  
+    display: inline-flexbox;
+    flex-direction: column;
+    
+}
+.div_two{
+    width: 200px;
+    float: left;
+}
+div{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center; 
+}
